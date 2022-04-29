@@ -1,4 +1,4 @@
-# Charter-vs-Public-Schools-BSAN6060
+# Are Charter Schools Better than Public School? 
 
 ## Background 
 
